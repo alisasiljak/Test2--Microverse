@@ -1,0 +1,25 @@
+#header{
+  margin-top: 20px;
+  margin-left: 50px;
+
+}
+#nav-bar{
+  display: flex;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid gray;
+  padding: 20px;
+  
+}
+.lik{
+  margin-left: 10px;
+  
+}
+.formm{
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid gray;
+  padding: 40px;
+  background-color: bisque;
+
+}
